@@ -1,0 +1,13 @@
+{
+  "appName": "simple-app",
+  "userGivenName": "simple-app",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "simple-app",
+  "srcRepoURL": "https://github.com/aoshfan/gitops-certification-examples.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
